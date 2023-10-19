@@ -15,7 +15,7 @@
 # production
 /build
 
-# Yarn
+#yarn
 /yarn.lock
 
 # misc
